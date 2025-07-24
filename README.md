@@ -1,2 +1,3 @@
-hello
-isma
+A simple login page cloned from a figma design that consist of the two vertical sections. Firstly, we have a with input feilds, that are username and password, then we have a checkbox for Remembering password, and a forget password link,and finally a login button. Second section heading, text and few buttons with icons embedded in them and finally a register button designed as given in the figma design. However, this page designed using HTML 5 & CSS 3 isn't responsive as of yet.
+Here is the screenshot of the output:
+<img width="375" height="505" alt="image" src="https://github.com/user-attachments/assets/917f94ef-a706-46de-a1a8-c6cc805d3a1e" />
